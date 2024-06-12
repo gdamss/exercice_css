@@ -1,0 +1,32 @@
+p {
+  word-spacing: 15px;
+  letter-spacing: 2px;
+}
+#span0 {
+  font-weight: 900;
+}
+#span1 {
+  text-decoration: underline;
+}
+#span2 {
+  font-style: italic;
+  color: red;
+}
+#span3 {
+  text-decoration: line-through;
+}
+#span4 {
+  font-size: xx-large;
+}
+#span5 {
+  font-size: xx-small;
+}
+#span6 {
+  vertical-align: super;
+}
+#span7 {
+  vertical-align: sub;
+}
+#span8 {
+  letter-spacing: 15px;
+}
